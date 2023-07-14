@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=48D1CC&text=Welcome!%20&fontSize=50&animation=fadeIn&desc=asthyeon's%20page&descSize=30&descAlign=60&descAlignY=70&descSize=10)
 
-<a href="http://instagram.com/asthyeon" target="_blank"><img src="https://img.shields.io/badge/Instagram-B22222?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
-
+<a href="http://instagram.com/asthyeon" target="_blank"><img src="https://img.shields.io/badge/Instagram-CD5C5C?style=flat-square&logo=Instagram&logoColor=FFFAFA"/></a> 
+<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasthyeon&count_bg=%2374DE24&title_bg=%2315591B&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=Python&logoColor=white">
