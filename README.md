@@ -1,6 +1,7 @@
-## 능동적으로 해버리기
-
-<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-asthyeon@gmail.com-F0FFFF?style=for-the-badge&logo=4285F4&logoColor=32CD32"/></a>
-
-### Github stats
+![header](https://capsule-render.vercel.app/api?type=waving&color=48D1CC&text=능동적으로%20해버리기&fontSize=50&animation=fadeIn)
+  
+<img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asthyeon&show_icons=true&theme=gotham)
