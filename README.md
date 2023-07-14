@@ -1,3 +1,5 @@
+<div align="center"> 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=48D1CC&text=능동적으로%20해버리기&fontSize=50&animation=fadeIn)
   
 <img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=Python&logoColor=white">
