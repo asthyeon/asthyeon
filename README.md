@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=48D1CC&text=Welcome!%20&fontSize=50&animation=fadeIn&desc=asthyeon's%20page&descSize=30&descAlign=60&descAlignY=70&descSize=10)
+![header](https://capsule-render.vercel.app/api?type=waving&color=48D1CC&text=Welcome!%20&fontSize=50&animation=fadeIn&desc=asthyeon's%20github&descSize=30&descAlign=60&descAlignY=70&descSize=10)
 
 <a href="http://instagram.com/asthyeon" target="_blank"><img src="https://img.shields.io/badge/Instagram-CD5C5C?style=flat-square&logo=Instagram&logoColor=FFFAFA"/></a> 
 <br>
