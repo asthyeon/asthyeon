@@ -30,5 +30,3 @@
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asthyeon&show_icons=true&theme=gotham)
-
-### 
