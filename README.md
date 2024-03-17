@@ -5,7 +5,7 @@
 ## Skills & Tools
 
 ### Can
-[![Python]<img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=Python&logoColor=white">](https://www.python.org/)
+[<img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=Python&logoColor=white">](https://www.python.org/)
 [![HTML5]<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3]<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript]<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
