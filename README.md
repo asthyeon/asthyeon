@@ -15,7 +15,7 @@
 [<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">](https://www.sqlite.org/)
 
 ### Used
-<img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=React&logoColor=black">](https://reactnative.dev/)
+[<img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=React&logoColor=black">](https://reactnative.dev/)
 [<img src="https://img.shields.io/badge/apache hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">](https://hadoop.apache.org/)
 
 ### Tools
