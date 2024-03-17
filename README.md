@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=48D1CC&text=Welcome!%20&fontSize=50&animation=fadeIn&desc=asthyeon's%20github&descSize=30&descAlign=70&descAlignY=80&descSize=10)
 
+열심히 하는 개발자입니다!
+
 ## Skills & Tools
 
 ### Can
