@@ -27,5 +27,8 @@
 [<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">](https://www.atlassian.com/software/jira)
 [<img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">](https://mattermost.com/)
 
-## BaekJoon
+## BaekJoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taetaehyeon)](https://solved.ac/taetaehyeon/)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asthyeon&layout=compact)
