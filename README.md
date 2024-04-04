@@ -18,7 +18,7 @@
 
 ### Used
 [<img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=React&logoColor=black">](https://reactnative.dev/)
-[<img src="https://img.shields.io/badge/apache hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black">](https://hadoop.apache.org/)
+[<img src="https://img.shields.io/badge/apache hadoop-FFFF00?style=for-the-badge&logo=ApacheHadoop&logoColor=black">](https://hadoop.apache.org/)
 
 ### Tools
 [<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">](https://git-scm.com/)
