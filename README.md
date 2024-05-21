@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=48D1CC&text=Welcome!%20&fontSize=50&animation=fadeIn&desc=asthyeon's%20github&descSize=30&descAlign=60&descAlignY=80&descSize=10)
 
-긍정적인 사고로 프로젝트를 이끄는 개발자입니다!
+긍정적인 사고로 프로젝트를 성공적으로 이끄는 개발자입니다!
 
 ## Skills & Tools
 
