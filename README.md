@@ -8,7 +8,7 @@
 
 ### Can
 [<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black">](https://legacy.reactjs.org/)
-[<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">](https://vuejs.org/)
+[<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">](https://vuejs.org/)
 [<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">](https://sass-lang.com/)
 [<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">](https://www.djangoproject.com/)
 [<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">](https://www.sqlite.org/)
