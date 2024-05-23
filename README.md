@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=48D1CC&text=Welcome!%20&fontSize=50&animation=fadeIn&desc=asthyeon's%20github&descSize=30&descAlign=60&descAlignY=80&descSize=10)
 
 긍정적인 사고로 프로젝트를 성공적으로 이끄는 개발자입니다!
+<br>
+<br>
 
 ## :computer: Skills & Tools
 
@@ -36,6 +38,8 @@
 [<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">](https://code.visualstudio.com/)
 [<img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">](https://www.jetbrains.com/pycharm/download/?section=windows)
 [<img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">](https://www.jetbrains.com/ko-kr/webstorm/)
+<br>
+<br>
 
 ## :unlock: BaekJoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taetaehyeon)](https://solved.ac/taetaehyeon/)
